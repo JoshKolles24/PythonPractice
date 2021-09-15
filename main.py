@@ -1,10 +1,45 @@
-print("Hello World!")
-print("Odie")
+def topTwoGames():
+    
+    #print first game
+    print("Breath of the Wild")
+    
+    #print second game
+    print("Super Smash Bros")
 
-#Print first game
-print("Super Smash Bros")
+topTwoGames() 
 
-#Print second game
-print("Breath of the Wild")
+def favoriteCat():
+    
+    #print favorite cat
+    
+    print("Odie")
 
- #test
+favoriteCat()
+
+def foodsCanned():
+
+    #print pickels
+    print("pickles")
+
+    #print salsa
+    print("salsa")
+
+foodsCanned()
+
+def leastFavoriteFoods():
+
+    #print yogurt
+    print("yogurt")
+
+    #print peaches
+    print("peaches")
+
+leastFavoriteFoods()
+
+def randomWord():
+
+    #print random word
+    print("chair")
+
+randomWord()
+
