@@ -11,7 +11,6 @@ topTwoGames()
 def favoriteCat():
     
     #print favorite cat
-    
     print("Odie")
 
 favoriteCat()
@@ -43,3 +42,10 @@ def randomWord():
 
 randomWord()
 
+print("22")
+
+def myNameIs(odie):
+    print(odie + " is my name")
+
+myNameIs("Josh")
+myNameIs("Collin")
